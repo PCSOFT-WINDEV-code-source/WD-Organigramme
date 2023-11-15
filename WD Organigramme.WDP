@@ -1,0 +1,139 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Organigramme
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : Exécutable Windows 32 bits
+    internal_properties : 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
+    configuration_id : 14868706505095870282
+    type : 1
+    generation_name : WD Organigramme.exe
+    version :
+     major_version : 21
+     internal_generation_version : 1
+    icon_filename : .\01970-32-5.ico
+    language : 1
+ elements :
+  identifier : 0x4ec2509900021a35
+  elements :
+   -
+     name : REQ_ResponsablePrincipal
+     identifier : 0x4ee5e116019fc7c1
+     internal_properties : CAAAAAgAAACimJqOPWpCXWUgZ2glzLPPxqmFlaATvEqCXtIPxNoylnpgKu4VI7m6Rv3n0VGPa12nrw==
+     physical_name : .\REQ_ResponsablePrincipal.WDR
+     type : 5
+   -
+     name : REQ_Organigramme
+     identifier : 0x4ec27d84000c8c4c
+     internal_properties : CAAAAAgAAAA2HB4CoZ6WmaFsozQRWT9TXiMNLSqqNERKTMi9C2OpD/XZrWupV/V2AjmjHeUb59kjIw==
+     physical_name : .\REQ_Organigramme.WDR
+     type : 5
+   -
+     name : FEN_EXEMPLE
+     identifier : 0x4ec2548e00098d61
+     internal_properties : CAAAAAgAAAC8mpSAP2RMX2tSnQI/8JGZIHdfl65+RqaiFqD8QN62Sro0cgYDPd9gOO/p11+RaV+pqQ==
+     physical_name : .\FEN_EXEMPLE.wdw
+     type : 2
+   -
+     name : FEN_FICHE
+     identifier : 0x4ec27de3000e00a0
+     internal_properties : CAAAAAgAAACoppCMO2BIUx9WkQYDJTVFUAGPZ9ls1Xeio94MUK9l+83FnWuvSeNkPOPd21uVbWOttQ==
+     physical_name : .\FEN_FICHE.wdw
+     type : 2
+   -
+     name : TEST_EXEMPLE
+     identifier : 0x4f30e5220011c99c
+     internal_properties : CAAAAAgAAADzTyt/zLnxKjQ/Cp+0cBAg4/byWo5RuOi2mv0llYoIgEyQ9ISGskrNVcw2ggL++u7WXg==
+     physical_name : .\TEST_EXEMPLE.wxt
+     type : 17
+   -
+     name : FI_WINDEVVueOrgaElement
+     identifier : 0x4ec2920e0010c805
+     internal_properties : CAAAAAgAAAD0UtzY51zU1+O69Ronyp2lYGN/V+MW8mamtqWF3yD89MAOeAAbJcdI0HdhXyfZoRfhYQ==
+     physical_name : .\FI_WinDevVueOrgaElement.wdw
+     type : 8
+  other_elements : []
+  analysis : .\WD Organigramme.ana\WD Organigramme.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ common_generation_directory : true
+ languages :
+  - fr-FR
+ code_elements :
+  internal_properties : CAAAAAgAAADyta1ztdEgrYxL2OIfroDzF7WpTxHA43nOPaiO8dWw0Vx+ktT0kYY/W+5/dMYhNYy+qZVHZb8274tsI4CTf3ye4wZX+srPcRKhBS20
+  type_code : 0
+  p_codes :
+   -
+     code : |1-
+      
+      global
+      
+      	// Répertoire de stockage des organigrammes
+      	RépertoireOrga	est une chaine = fRepDonnéesUtilisateur()
+      	
+      	// Liste des organigrammes
+      	Organigrammes	est un tableau de chaines
+      
+      	// Mode compatible
+      	HVérifieStructure(Personne, hCompatible)
+      	HGèreREP(faux)
+      	
+      
+      local
+      	
+      	// Organigramme exemple
+      	si fRépertoireExiste(fRepDonnées + ["\"] + "Exemple") alors
+      		ajoute(Organigrammes, fRepDonnées + ["\"] + "Exemple")
+      	fin
+      
+      	// Recherche les organigrammes créés
+      	sListeSousRep	est une chaine = fListeRépertoire(RépertoireOrga + ["\"], frNonRécursif)
+      	sSousRep		est une chaine
+      	sdOrga			est une source de données
+      	
+      	pour chaque chaine sSousRep de sListeSousRep separee par rc
+      		
+      		// Vérifie l'intégrité des données de l'organigramme
+      		si pas HDéclareExterne(sSousRep + ["\"] + Personne..NomPhysique + Personne..Extension, sdOrga) alors continuer
+      		HAnnuleDéclaration(sdOrga)
+      		
+      		// Conserve le sous-répertoire
+      		ajoute(Organigrammes, sSousRep)
+      	FIN
+     type : 196608
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : Exécutable Windows 32 bits
+     identifier : 0x4ec2509a00031a92
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==

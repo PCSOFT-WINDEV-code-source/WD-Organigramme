@@ -1,0 +1,550 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_EXEMPLE
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_EXEMPLE
+ identifier : 0x2ec2548cd0b0843d
+ internal_properties : CAAAAAgAAAC9/ooSxUOWnOpq2cSxozFdxRDhTLVDvTgIpB8XbR5yUAe+KbmrbVUv6XKw084xkL+3Z8LxI+XVQz0uNqZdICsI3hp73N5lq3ADNR20q0BvdQcPRSGaVKJ1YaKJGFqamyihsBf03scw8iOYci9Obx5kRHJwWiyETC+q9AzQdpPdQFt0d38Y8tPlagztO2Jc/4KmmzWepue3DVNg2VPTJ60KNKgF7UonwNfXpFhrwEzSIEdzN7QgBE7bbAhauT84gV7sI6GvbL2zCGnQ3WI+Xte4PPhGkinmoNdph93wGMo1XFH/orloftPpYhGiC5GyfPr6IfTFANSFG8uzCe7tBQUQu2zauC42nzTF9jelQ0zMegyBQ3z4c2Jb4tQAEok2aA91po9cbNL+VV0R9V5KXv4W2oANMD71GopvCwqvNvjWJ+zTDiOwkvA/UFzIAWBAa5S9XMoMZl+8L5pTUY8VmmCFSAG49OGTcYztcf2Q3yWGtYd2YhYZaaKNNdGeDgp0/T3SRP8ESTlYe5bZQ5fzY3WsQhtGA/AqjVy5v+byB8hY1fglR9myGJNT+JDGDCN9/zr5Fsb0TRCgaan4l3Y/TxpnXQd2vHx7as/4xTro10FrtrBeW/R7/eQGL64yOswDVUByTcRqMZDlbIHPhiUM27UqgShT+G1tVcjDg4B2ykh6Jo6uNxYefKt0FYUbexzalV2hBbyHkwJ/op7uGtHHjX1aG6jzDOkOs2bTMOEwlP2qPS1V7Av0Q6urgncDjjORJpxsBjT6TWelO0zXaSDThTn0jwO8JmEveQn1bqoKsKjC
+ properties :
+  width : 1010
+  height : 762
+  widthClient : 1008
+  heightClient : 730
+ controls :
+  -
+    name : RUBAN
+    identifier : 0x2ec26323d0f98345
+    internal_properties : CAAAAAgAAAAzLbxENXH+qBESLErdWQvfVF5ERDWUaln18c7Ki7RM/VRU3bMSiPeOX7BQVyFnCmn6hn3ETZI3gmigbOBiMY5OwJs7fA6fkjjVrb3V53uLvRwCVNrG/6/3ZDG4ZQJLZRgMp6iTCZsF/rjAY4N+Uj+nVTboE9zS41Su1I9SEdTKHNxV4h2VmreX0eo8kPkvYQGAx0elOnVE1FgkyvZSl6ASUL5ZwUfvIA3MgMH/uahT9lTx/8703LPb9a4j7wdLu12xAEljK6MBBs5S3IM6Dq28Rxk1VycFRRcdc/QQUc76721V2LSPtZvA2UVHVvZcKk88DkgrLjx/j5tBV6yAPe2mi7smwFU4uE2c9z9AbFJZ2TVSSXYHIrwYbrqz4MswiQ0zXDFsfpaO6anQpIAahx2AAVR+6NtZSY9yi+K5x14sv0oSY1ZXpJBzRM6CBmBxPqql1NWJOzFArClqFd8bKbDG5EahZCba3IJAutZOe+T/wJbSXaoIhp0NIhUxnnKqqfzbwuaC//Tt23dSKrVrEasgnlfWKh88dvC072VKinDRnDuh2RNSxg3DQev5+kSW0sh0CF4VQohNpZ1EbIP3LP8X2sqImfEOjB9U3KXHyITK4TFPvfzcPid30s8lkH1DQBqpFsFBMTL2+WCER4EuTj5tHuii3nQcVfwenXb7G208xlzV9zlY9DfnGSIQnzeM5lyvS8nH5wo2vfJPhgzRTjjURrB/T1zYFf7W61sCKlqN40TQ6+twHVg2nMoDLJ0jUbxVyfT9diM5WOWUEk8NDm+biQn/XgUdyUyxOPBp4DUyUdARUnblcbJJjivhedK1JVKIYc/ulh7WYEvNEiq7YdF8E9neaH0vBKkM/b3+rJ6ums3Mkl8mb/1hpERXoeOcmV2A8Qz++edA+WnilMyAFhgla+xcan3X21+u0dmNzbcNbtkFckcVQ8HJ7H9vfWEmjDOBh4AhqxFxb7gJlUOOIyuxr7ZiA6OopInPqbgdhliwseNy2cnDVSVshMxiI1oEf7Ef92A80e7Gpz1ZrpU4DtnzsRzqJErbGFfujVw9t14Zg5DqABrgEi+jFtIoTSBxOSlQ4typZMsCUZhvfX932S4ekFUjA3DNGiN2avBlbIRKoiYi
+    properties :
+     width : 1008
+     height : 118
+    tabs :
+     -
+       internal_properties : CAAAAAgAAAC/jtiqwr9KwbOjqFCWazI1jtc8P1tHTsK3PONpzKOwt6SCQ3E9wtci662BS9rPh+1NdS2PwYifKjZTSRzWO8d6fhSkcZW9mrYmyBj08EiAJbDQkUYjkwzmBsfI124je+EyACUed24H1Olu3r8KDTsd9HKn26SetDjYxxGVvK4HWK8fPjk=
+       ribbon_groups :
+        -
+          name : GRPRUB_FICHIER
+          identifier : 0x2ec26323d0fb8345
+          internal_properties : CAAAAAgAAACs+cGGtQchQwbypk0sqd4G/yi7tljTBEUEd82p9Lj4LefBQ3A/NWXhV4lPFRM+5HLwmsBU0j+CaeoCz99r2DERCcpOu+k7YFTJkkFMjCvGxs4gBfYgDPvCBZMsqLfVxfXUdd6huEn+UnIOMSMf+TkwNvayMvNV/3FDmQWSz+9FUzhDVXmBmTmfy09q8HNXfgc4qBPcVsFABf48w37EOYbw7A7DcKZqqFv8XeiCDpXIEnHcpRiJdGyzWXETCe0fVz5/O2ZYdHxNAJPO0vJyfJmlpVGYEQJjLUwB8mDeD6gF72gXgKY2JTmyL9nrynCGvR2DZuW5uaqbQ6rjuK46F65NPnb3ZGbj8XP6tNjxGnQ0EXJR8Xy4INC1L3GeJZsE0xnKuIFlDhT7Wv1vbT7n6X+AWOukeceq4n0KeKo1OB57M/CYnuZboAdK7wrOj+4/wOzdS6iLUgdJ9xLd74ESeCoECTjmo4FgV/ecDEom6VkxdqzTbBsdBTWXl8w3dt+lDIpCp0CeAJ09FCSMdAtPWMuN2+H0t8LS6eKxRnoY9tXoZKgRan89qx1Rrp2l
+          properties :
+           y : 3
+           width : 144
+           height : 88
+          controls :
+           -
+             name : BTN_RUB_NOUVEAU
+             identifier : 0x2ec2687d822068d3
+             internal_properties : CAAAAAgAAAA8CUNN3jHdIgvcjI52E0RyPXUX3nEveiBzGQXsMVPoOkg8qEwg4qCiw66g1M45yTaEIWu8gfdUYt4z/smTEQRzKirhnOdyGQgSoRjCK0AiYWJZr1DuzVw06PlkNLl9KCryvH7Eslhl07Gi1m9aoWmQmc9qP3+0IaJgd0mthb6RiqbcjUDs34hF3q2QfYYf1vlABNRsmIXLzS/Sg/8HvC9VBF2b/WsJyXcgKKAhhT3sY/jTurjl1Ewd1ZOcyS/Rr+OrI+cfufdv4del39Uf7qZYVexxHsolwm7b/jIdiX2/I79l7izVtnuaKY9eTxJU9zuubGMkA7XczhF71LHz5ZP7SpDdqhCMiT+/UhGQvK2AECGw6bg4JkLC1CILC7UL0FJ4Csq5VbzOueDFMjJArBzOkfCcfP/5X7n2MBuyN48PjULQ2IGLAvOcFZONgstz9oZ4zyroSIT76tipC2KbYa1wc1lu0eyI6gsFGjWXb4caX0koFh0WFrOiWhIpHZlzI/p5SI0/jhgRq6u4ZJTNAZyaCZMUQ2NmQ9imziAjDnR9st2kVy5ej2r3Dn3d/3bwxhoQEKoSA1eGbXWdYPlHvRmErMNVIiBT+qudxIZyGo1e7yItDlBoiHuaGtZmb0tllMr9ZVnGd86dDg4/YBO3pCcUwJOrMisfx2rN5LM8wNd6PDge3+EDr1B7NlU2z3h/4gs9kS/JBK9RvB+ybiSH5zFcz8KKxZc3o6Jv1Hge1kYVvtK3wcxkziUDOfyX40+gqPdqW16segwmxOXv6RkgVfx1K/mgsIErPYJwOBoNk15hmiG3VPmEbdrtsijz/x0KWDHqtdTe76FgcPhsKGyBICjwlOtOlCd0GTwhF4VSLYIJRK/B405Ymk0TPV1F2maCGyg=
+             properties :
+              x : 6
+              y : 1
+              width : 66
+              height : 70
+             type : 4
+             code_elements :
+              type_code : 4
+              p_codes :
+               -
+                 internal_properties : CAAAAAgAAACEutynWrQFIuEUMLMeNrV2XwIK2abmQLDBRqItBB79AUyKnZMOthXIcHE+VfNC9i9oHPekkaEea4qmm03x9IAXcje/3lmyAk6T+Klow+5I2s2TkD6UxBM=
+                 code : |1-
+                  
+                  sNomOrganigramme est une chaine
+                  sOrganigramme	 est une chaine
+                  nOrganigramme	 est un entier
+                  
+                  // Demande le nom de l'organigramme
+                  //1 : &Créer
+                  //2 : &Annuler
+                  si Saisie(<§?1EC27638002A0B1B§>, sNomOrganigramme) = 1 ALORS
+                  	
+                  	// Détermine le répertoire de stockage
+                  	sOrganigramme = RépertoireOrga + ["\"] + sNomOrganigramme
+                  	
+                  	// Crée le répertoire de stockage
+                  	frepcree(sOrganigramme)
+                  	
+                  	// Ouvre l'organigramme
+                  	si OuvreOrganigramme(sOrganigramme) ALORS
+                  		
+                  		// Conserve l'organigramme
+                  		nOrganigramme = Organigrammes.Ajoute(sOrganigramme)
+                  		
+                  		// Ajoute l'option pour l'ouvrir
+                  		mENU_OUVRIR.AjouteOption("OPT_ORGA" + nOrganigramme, sNomOrganigramme, OuvreOrganigramme, sOrganigramme)
+                  		ExécuteCode("OPT_ORGA" + nOrganigramme + "..Image = ""orga_icon.png""")
+                  	FIN
+                  FIN
+                 type : 18
+               -
+                 type : 161
+                 enabled : false
+           -
+             name : BTN_RUB_OUVRIR
+             identifier : 0x2ec269229007f079
+             internal_properties : CAAAAAgAAABea2tuSM/bONWCPkBMxIy6hRdb+7WLv6hPwJvWeaBoW/CjH76H/IB81pGzWEJ4KLK7LI84eqGNQ2KHC8wL8S3yyoYt2BjjrJlW4ItBClXtNbcgInqWjxnv8zTXh9VeEumfgMFMtZ6xMSeg7NIbEhpV2h7SZ4p8efxlZ3lxMHIw7ZVzYIwHYaDFbzbRTrYZLbwumW4cytXsS6yFJacKyODIilVydw5Cb122G4XZSwTRY4mRxLJEvDX0YgcOgr9WkEma3vgqEHIQP/kfD4gdy2jC65czbMbY3g2GS7kzshVq0/7AyA3GwIc+xXYxfBWXKW9aMB11CnaIQNlPP3n5kvEPcJoZGH/8SrCDBGcaikwzA8OxSMIixCvQoNZ3+plPwjkxP1P+gF2Wz3y6eHAq219DPbbeY8lo4CG10vmLrCczfnya9Q11vLQ1KPpY0OFW2rJloWIMDM9MfTV1U3prY6vyjJBAEI0gSUmU15j3hXtCSf62w+G/3h6LDW1F6GaOSpxMxCw+EIWx8Kvab1CgFKnrerS2Esko5UgEMhl52K+gbb8HyJxbCommLydLQmTU6tBxyP5mGPBmY2tQ0X9xM+/JEUgUeSysXbAJShf5j4jqTK8KnIYY3gDJ/MgU0YApJZTxkpQygysh9CZdysptEpZF1oHL3Yz22Qu4v7/ZsU+GQr5CKo6BC3SnGK/rzcWxJDySdpXPaflI9u7VHnPVN1nYkzLGjH5LzZNWulydDOM2dwnumOXNqbgyExjnQ+8I3r8UHZPly+uPT7D6bmz+nezH2J+86MORpWLqooV2hoNm8Hito2HH+bpG+6LqyKAfTiihhJflCD79EbP/z6UP3oTh/bnm+6O/114r5nK9V0DxnGf5qsc9ITRyYPD67XpkOco=
+             properties :
+              x : 73
+              y : 1
+              width : 66
+              height : 70
+             type : 4
+             code_elements :
+              type_code : 4
+              p_codes :
+               -
+                 code : |1-
+                  
+                  OuvreMenuContextuel(MENU_OUVRIR, moimeme..x, moimeme..y + MoiMême..hauteur)
+                 type : 18
+               -
+                 type : 161
+                 enabled : false
+          type : 88
+          code_elements :
+           type_code : 123
+           p_codes : []
+        -
+          name : GRPRUB_OUTILS
+          identifier : 0x2ec264428167e3cb
+          internal_properties : CAAAAAgAAACoytJO5au2/RNvQoJcOO/lBqvKue9UIhBqNtSbx7fRkU+br+i1Aoq0P6PaEhXNMjSpxb9dXvOQa0ep4mhHkluvtZ8pbElsaVkJglAy75tbZqIZbIJX1/1G2kAqFRm1MAQ0UxwVIZ1NoXzl6g2WktXdUWk8K0WO+VV4m/03yUCgJ6gaJQCcKlONfr1J1FiphmXTfeqODXgxYxHXu0hAHBOTPpy/qTNjxd4Uk6EJ2p9sqGhJTxwyA6DnuK3PIBcRPxY2azAf0W3bj2YIW7RPUHGu9SjPN3YE18ol/sxMtaXLjQA2nHDE6nDq6UmnkRFNd7J28h5XIaNOG/RgNk4gvw8YS9+2ByZ8a4+rxxgPfFBF6ma8syfSsSf2BBFgh2fXmldhwOS+8xQ3YW0dbc59XmVUCo62H2v4T7vVNso7KiBJBga4NHHm4fP5Clst3D9LFt3nj08EjUfLGaTPMN0DitIph4acnpnXHH7fCPJ96OJOqR+o7u9huacXJg4vCvExEeOf6Gceas+9EO/SNiCbUvhrgkeL
+          properties :
+           x : 144
+           y : 3
+           width : 206
+           height : 88
+          controls :
+           -
+             name : BTN_RUB_NOUVEAU_ORGELEMENT
+             identifier : 0x2ec27271d3704943
+             internal_properties : CAAAAAgAAAAFYA5eazHa6oL+5lNP4QsbffyzFUHBPEWZPFcGWewqVXgP0KlwG37FD8U61VgBqI88Kcs7T8BqEt2Xcf4uESxLtyDxGH/zEFIng1Il8F422AYKwqbeZtagcYlt9VZSsyGNcS66qfyrPCf9yU3Sa50wd0qHVN+uJQXUSgybYxNeW9MEZTjjpDWtzeHEiurxe9C2KdLLed6A+eiKJxSpW4DL0VMmN/OPXxAXVqQAqLasxKuohuhUY5KMnHTllwfsws3i3e7lNpShwdN/ssDOkFnpowgazZo8i4SYROI1O+oEdTTH94uUx/9M/+3s8JIgl5RwMqaSRAobAy5z2C71t2j1f5riyyYuiWH4HaA8jVJEBou0eV55wryWp9/wRWLya1+JXNFq8vtmrIITdjbeHUaWJneAO5eCjfrjEs+n8/O+U6vyyJTChzOPIpURf20zFgHhNBZqgenQfdcpfyy6RPncgCZvFJAYuWAQgaNboTlkz8AzbXKAQ31WlvCuSFfUh7wbCCNxxbs91y8QLsxQU9Omuaj+gEaexS8lWEemRUWKGKdBBu3HulyZjSLOQ+XB7yxYXQPN09Pz+v+r0KkoGpNZgQJcZmw7185y9Avf6pftCJ2MzY+bn1cJUtXRmGr3P2Ld0PZKtp0d5u4XY2xFS85s2xoqU+hw/nVeEiOlfj8cokhSv1Vb9x4kh8Xe4z7qtkI+VAx2zBFyuaz1BdSnEPnRDFkTFfwJIcH1iHZmYo9acXYLb/TaBr4pHl0XK7XDcpjnzmxOce6o3mepkjhwrqfZ0/kOZm3dax5tWGC2nE9B1kfZvW+RMwwL3f4B9WgxQzm8bu7B9sjuG4jJEQffHwDPzur0bbGXprN8anqvJbFF0ATDVPYZl3sfvh3afMYkYkzB7Ehoi+sW88nQrZuTkqQpQyzf+CNmBgs=
+             properties :
+              x : 1
+              y : 1
+              width : 66
+              height : 70
+             type : 4
+             code_elements :
+              type_code : 4
+              p_codes :
+               -
+                 code : |1-
+                  
+                  nID est un entier = -1
+                  
+                  // Crée une nouvelle fiche
+                  si ouvre(FEN_FICHE, nID, (gOrgaElement = null ? 0 sinon gOrgaElement.ID)) ALORS
+                  	
+                  	// Affiche l'organigramme
+                  	HExécuteRequête(REQ_Organigramme)
+                  	ORGA_ORGANIGRAMME.Affiche()	
+                  	
+                  	// Sélectionne la fiche nouvellement créée
+                  	pour i = 1 _a_ ORGA_ORGANIGRAMME..Occurrence
+                  		si ORGA_ORGANIGRAMME[i].ID = nID ALORS
+                  			ORGA_ORGANIGRAMME.SelectPlus(i)
+                  			ORGA_ORGANIGRAMME.ExécuteTraitement(trtSélection)
+                  			sortir	
+                  		FIN
+                  	FIN
+                  FIN
+                 type : 18
+               -
+                 type : 161
+                 enabled : false
+           -
+             name : BTN_RUB_EDIT_ORGELEMENT
+             identifier : 0x2ec2728cd51db2ed
+             internal_properties : CAAAAAgAAABwUjui8Dr6OBZUu7oy6hxdXwdrzWJUc48iJW4DGvIOFa58fqfGA6HdTXWDvF0ZmDV0vh/vpQx05BdR1HNR++IFhWtiiZ0AJCRRWb8QFQs7GFtehbkC8NoiN5e2CHsiVVn51ILYiwJDEuUtoD4duyCwr5XnzNEmSq2kqJJm6GEkK0TDdxmbRX2FydlknCFXGy08hzQk1iZ5NM/wY64pJ38vdLIXa+kUMrZPoiy37KLKICLcfNn5ceMvO5ltMMF8zjwGwiIg6ad+wWwsHBzTIttSmoiR1b0px+m3EVEMg3MTlxBpuMj6Wm8thKv6TK4g6z4D/AglAiEokBuVRAgTjf71INnsN4NDCbgWMfLlWufX5Sxjs10P622l52+Guey8WWfkL3Nk0TBQfGPurEwIGAdteFlJbFXF6jeqEkH3rfq+gaqUtBr1Okrk/ou54t5yVH7E9+f0f7omxVB5FWuPEy68FDJ5yhIufZnl7Ve3Ghr1Bes7AzyAw8v5ccqyRLYXrF6qxou5Rfu3aESmQLJf5r60iEZ06h6+c37quCeG4EAJmgrjTvUFDDDovsa8FWL6vkIJDzfZiYW/l8QlDHUjLZShWjbmvN5Bj+1/asEh1+wYcCJS7Z9bp0FOd/WL7jOUphDcbk4yhE/xy6uZ75iquN0OiGqGJ8TUZLRzjuVTX5ijxrFUTwVhUSb/DOWsJXs38wZLvkR+gCUEGospEwasfYKxNeuDxYJzOeh0RalTQES/6aOtX0RaNsw669v5qU4b4Kz+O+qeJjCrtsWyujE1Vfj36Z4F03YcP1kifW6DaMzFdR1FAvLGAIXoJhpqU98dMr9TrjRV1zNduigBTeZx8IrlX6XizC4i8efKPFrhCQjsvOcVWtfp+G0/AUXwqUb0Mc/h+MU72Lbbzc1wf7sbNfQa0esVND5WFYq+ztnnV3Bst1ff
+             properties :
+              x : 68
+              y : 1
+              width : 66
+              height : 70
+             type : 4
+             code_elements :
+              type_code : 4
+              p_codes :
+               -
+                 code : |1-
+                  
+                  nID est un entier = gOrgaElement.ID
+                  
+                  // Modifie la fiche
+                  SI Ouvre(FEN_FICHE, nID) ALORS
+                  	
+                  	// Affiche l'organigramme
+                  	HExécuteRequête(REQ_Organigramme)
+                  	ORGA_ORGANIGRAMME.Affiche()	
+                  	
+                  	// Sélectionne la fiche nouvellement créée
+                  	POUR i = 1 _a_ ORGA_ORGANIGRAMME..Occurrence
+                  		SI ORGA_ORGANIGRAMME[i].ID = nID ALORS
+                  			ORGA_ORGANIGRAMME.SelectPlus(i)
+                  			ORGA_ORGANIGRAMME.ExécuteTraitement(trtSélection)
+                  			SORTIR	
+                  		FIN
+                  	FIN
+                  FIN
+                 type : 18
+               -
+                 type : 161
+                 enabled : false
+           -
+             name : BTN_RUB_SUPPR_ORGELEMENT
+             identifier : 0x2ec272e5ee6d0ef1
+             internal_properties : CAAAAAgAAAD+F8cYCojFJTfC93nX2KjWgXilSFFpUyUZTnobA3SDKuA9Drg5HyYB8Hf1eQOnbP8e3CMl16PK09if9wmawv/9GAyDaUBNc/mCVsh+ULvp4PLy2BOH7yV097Wnx9zxptfhIUBTnyplOAAJzdUbU0WrcIMze5culsg7tBpSy2LVmV2AiwIMa/33PQHeXMoxK26guLCWV6S9iv7yXj73emG9xNvQP0bwel9gVNBD3YGkNZdwukXf8tLn4xZxrIRZJZDhORLPAJVJGTfpBVPnUdngGVHut3O3qOaG3OXubIflEuICHLVWSj1fATf/W1WwMPy9+JYaeM7f+kr5Q0YKy4zmBNvxAmUvlkI6dHdIVI1U4pBrZ9V4R/rDRlDKl0OqMK+8220MTRZHxAYKUx+1obCGcOALtwM1sUu44e6H3ljlJ9BGepYPdiU9BRTOpve81xUTQpFe0jkMBYqaufi/hqi4oN0CbmCMLrYjilYDUKj785C7vMIYB1j+x39vHrbj0vzppqRBh51Cd9B/1Yqnmh7oJ8bpyGTM1rlqO9K2JDijhCnzFXG3NtlRohH9hZ667KgOM8YnYcEGzpgqgQGJ2/iRyaKnOopxLui3PxwdOXYOlmUMRuXFIbSJuYJAunUOJjQTXrvo5EvYdkO6YsDwfvG2tx7x2R5OF6v/RahN1SaN8Lp0SrnVCUFOqEgJzzl10TT8ct/w1GXnicc+OExAteZRem9OJ+S12NN8n2ZHYAIcVgEO0UIw5C/A98TGqYpwuJnR2ANashy+bcVhf5D4KYiryauztr8tKZ4S16RoQ+OyKoFAhXTeABAJCnkCf85yUNYd0AaN4tq3NhU+bAP9B9CPx25tR9N7UyJIdvi+gIPTgSsMI8oO5ldWJZat7WO7QdINm/9wfnG0tgPVO652nngiTa/IJNGu0h7GiRm4bppCjAiiU2Q=
+             properties :
+              x : 135
+              y : 1
+              width : 66
+              height : 70
+             type : 4
+             code_elements :
+              type_code : 4
+              p_codes :
+               -
+                 code : |1-
+                  
+                  nID 			est un entier = gOrgaElement.ID
+                  nIDResponsable	est un entier
+                  
+                  // Recherche la fiche
+                  HLitRecherchePremier(Personne, IDPersonne, nID)
+                  si pas htrouve(Personne) alors erreur("Suppression impossible")
+                  
+                  //1 : &Supprimer
+                  //2 : &Ne pas supprimer
+                  si Dialogue(<§?1EC28C090073439A§>, gOrgaElement.Titre) = 1 alors
+                  
+                  	// Pas de responsable
+                  	si personne.IDResponsable = 0 ALORS
+                  		
+                  		// On supprime sans vérification (la suppression attribuera un responsable par défaut aux subordonnés (ie : aucun))
+                  		hsupprime(Personne)
+                  	sinon
+                  		
+                  		// On remonte la hiérarchie
+                  		HLitRecherchePremier(Personne, IDPersonne, personne.IDResponsable)
+                  		si htrouve(personne) ALORS
+                  			
+                  			// Pas de responsable supérieur
+                  			si personne.IDResponsable = 0 ALORS
+                  				
+                  				// On supprime sans vérification (la suppression attribuera un responsable par défaut aux subordonnés (ie : aucun))
+                  				HLitRecherchePremier(Personne, IDPersonne, nID)
+                  				hsupprime(personne)
+                  			sinon
+                  		
+                  				// Conserve l'identifiant du responsable supérieur
+                  				nIDResponsable = personne.IDResponsable			
+                  
+                  				// On doit modifier le responsable des subordonnés
+                  				pour toute personne avec IDResponsable = nID
+                  					personne.IDResponsable = nIDResponsable
+                  					hmodifie(Personne)
+                  				FIN
+                  				
+                  				// On re-sélectionne la personne à supprimer
+                  				HLitRecherchePremier(Personne, IDPersonne, nID)
+                  				HSupprime(Personne)
+                  			FIN
+                  		FIN
+                  	FIN
+                  	
+                  	// Affiche l'organigramme
+                  	HExécuteRequête(REQ_Organigramme)
+                  	ORGA_ORGANIGRAMME.Affiche()	
+                  	
+                  	AnimationPrépare(MaFenêtre)
+                  	
+                  	// Annule la référence
+                  	gOrgaElement = Null
+                  	GR_SELECTION..Etat = Grisé
+                  	AnimationJoue(animFondu, 15)
+                  fin
+                 type : 18
+               -
+                 type : 161
+                 enabled : false
+          type : 88
+          code_elements :
+           type_code : 123
+           p_codes : []
+       controls : []
+    type : 87
+    controls : []
+    code_elements :
+     type_code : 119
+     p_codes :
+      -
+        type : 292
+        enabled : false
+      -
+        type : 293
+        enabled : false
+  -
+    name : ORGA_ORGANIGRAMME
+    identifier : 0x2ec26369d9ec92fe
+    internal_properties : CAAAAAgAAAC/D0rqnMtf5Pcs+qTgK4Yyb1R09UwheDF92cb9DyDu/66TyeLZ9tQF3J2HTyWoxOtMOQByoH07V575WJGE9puMKL7sJd9/IWo9KGVdTzLZ65yYSPWPrtLOSPZ/0wHCqTdkCvhtcx9Kd68WeQSGfKqnIjuhk4hGePO1rcxy3Mi94CqAQHDNoo6lrRElwiBBrKsL/904VtJnpNNLcmOh0tYQvM37oyawR4frsIUUPwN27N4FWe6mEr4Q6XX9prx2hGL7UHrAw3bd3EsO7Hdmx+t62cRpZsgo8LIXe/+UWzh6IvWvMeBcqHRAcZaqzFxD7uJuDFqr/TvrLCNZpsEdFl4yZdou0urqo3K5luRSMzlK75lKRZs+4J0cIq6SsAMzVCwgS+ogHqFwzIbnh+Kc6MuC6wwz3yp3pxB09Ravp5VVStFwO5Q2zXuVpPrGPLuk6VKKnojFNmML0ec7aSBKJ3Np2IrOQMXpb+HscWFYN1ZtLHBd7wZ1GkH7KSTP1f8qRG6BPaRUm0f3hL7o4UG2XHoF0wSPE3/Fd7ksq9dP2SNvc4CF6sAzHQRFamGwK8uCTi3XsDr7nS8YtzZ0HHPiv2AzrbQ8u3tjVbruf2OU56lP+FUvkr4VQh+ah6HBVxxCN95cDYzdVFwoDSA1HEOB6BJ71Bwe7Smd3BsRRlSEypetKIDFhbaZbDHksrWULe0jd3MNLnaIHr8HN7AN4mnYeoyVTdlJ7suxh40qdMGmy9UCaFbci4I7sAn07gfgCjcD9yHo2ckz0GaA3gAPb+DPlWTbZ+YgCH2r88PfRjaDSHUV2zidvRN8uehe32OcUMn8PEvNSD4VehNC+XOkzr9zkLl/LKp/l3Dg2aVF09xqqYXzQGpIVu20zJ60W92djYssviYuIzG0QAIo64A7GIISTE/XxIAeB84RERrjS/3/UqMR2QmlZY0ocI05nouCega0O1JUX3IynmyMFZzZXnajqp9IoFD+5qXTIxFkPNVAs5qwVn3k3SwEhuz60QI1ZTOYg80TWlcHMf85sKRihuM3DmdK2mSBdnuGT4V5V+MHYcQ4QycOK5q+35rCfZEiLOcLsEWcE0ANXptwLaePbwT5XW22nPJb+ITINv8UOS9eWCJJhqiXnGdX4yQ=
+    properties :
+     y : 118
+     width : 1008
+     height : 612
+    type : 86
+    code_elements :
+     type_code : 118
+     p_codes :
+      -
+        code : |1-
+         
+         bDéjàSélectionné est un booléen = (gOrgaElement <> null)
+         
+         // Conserve une référence
+         gOrgaElement <- ORGA_ORGANIGRAMME[ORGA_ORGANIGRAMME]
+         
+         si pas bDéjàSélectionné alors ChampActif(GR_SELECTION, animFondu, 15)
+        type : 160
+      -
+        code : |1-
+         
+         // Si on clique en dehors des éléments de l'organigramme
+         si ORGA_ORGANIGRAMME.InfoXY(SourisPosX, sourisposy) = -1 ALORS
+         	
+         	bDéjàSélectionné est un booléen = (gOrgaElement <> null)	
+         
+         	si bDéjàSélectionné alors
+         		
+         		AnimationPrépare(mafenetre)
+         		
+         		// Dé-sélectionne
+         		ORGA_ORGANIGRAMME.SelectMoins(ORGA_ORGANIGRAMME)
+         		
+         		// Annule la référence
+         		gOrgaElement = null
+         		GR_SELECTION..Etat = grise
+         		animationjoue(animfondu, 15)
+         	fin
+         FIN
+        type : 66050
+      -
+        code : |1-
+         
+         // Si on clique en dehors des éléments de l'organigramme
+         SI ORGA_ORGANIGRAMME.InfoXY(SourisPosX, SourisPosY) = -1 ALORS
+         	retour
+         FIN
+         
+         RUBAN.GRPRUB_OUTILS.BTN_RUB_EDIT_ORGELEMENT.ExécuteTraitement(trtclic)
+        type : 66051
+ menu :
+  name : _Menu
+  identifier : 0x292573e513b5f221
+  internal_properties : CAAAAAgAAADAfZ27Q+jJ/MBXHLGCb7PyE2Yqjvuo9mAX2ZN+LLuyQtzms1431znXR0sNCCeLESXZp1gqmo+m2mUhb2ELR2phZ8VOgUSyXddfQyxpxffipvH/iiFuFkCLgpjx1Ah9/9/ndeRpWb0s9Qcjy8oPtW3aMcRtuglgDe5Ch9/jnC/Drp19/hhf+qz96diLw5T0yWlzg33c/E8hhMwUBdSOV69/8iDQGLfTvLoTvV3YkiQ5Dce7dxB2gUx1AVvVTykQMm7G+0haIOV568KMGgPEJluRN2XjgQ11Tb8vVxt6P2g=
+  options : []
+ popup_menus :
+  -
+    name : MENU_OUVRIR
+    identifier : 0x2ec273960944c4b9
+    internal_properties : CAAAAAgAAAAlcSGGNonyab3x47OOfvwbd5nkHwiEPIiVqi1cdApUyI1FuMCe6r5Cya1wZebQ14MwX4XzPKqJvaiE1T0cRWnrXoUhYMOz8u/muQqH2Zhu0U87GF4fj/4qzo6YqKEvddcHKOPJ2ci2Bj+WH0IVh37EjP3lMPaQw1YJNtrZ+hmnwQh7yeKKP4RYjiMPVB6QiOMq1d9+l+K94lNRYsWtzPRlg5GaHwMXF21GOv3jslW5OqEk24BM/6TqQcDIH5ktmEt4zIfaIq/vxpQpbjIpJIracj2XwAQtRyJ36V4VxcmPH5vR4t5XXTUzeuvVs8QOlT16zyImlHUKnxJB+vB9CZXXClesO8CnrUs1LVsNP2y0SpUYvWEcQyUb641HVueOzezPeIzQFkEAswMe+FS8
+    options :
+     -
+       name : OPT_PLACEHOLDER
+       identifier : 0x2ec273960945c4b9
+       internal_properties : CAAAAAgAAADoDViylzYAYWVUvK4e+b/s4BI9/JFWX//cubyVOMPS4eya4tJFNuS+cFstXPXxf+TnJpjdY+poHyARBNnZQg6pPoWJlDurKe00dyY2zvJf6dfx9kxhTBxFgQv9YfkJBwWonhAwi/iHhHge+Zpu9mVPadoybfxfNqWTnEDASxLRzUIJDjmsZSSy29du/sAzjp9fLPGbmXtmTOBK+CYZsxi8zLS5pPHp84s0d67oYcvGnGBcXfSI16voJsy/yPu9BHhvWz0XDMJyUB2ZP8pjVMtrH+6OtmSFDI2ZY81JKgm1QqSPxQbQz0OBxe0X3J1jIbfU7nDNVfXI/AibK8f0n6Gg+XmrgceknXFoj4wfGZwFlsSBXcDCpnEZfXCsWJyLFod8uiFL8x1E04vyadqicgb27W6wwXAqK/O1AzpQWgS71jeycaFQB84BNDDAy11HDKEWODbsMCz1hQmL0thoyZudTA==
+       code_elements :
+        type_code : 26
+        p_codes :
+         -
+           code : |1-
+            
+            ExécuteTraitement(RUBAN.GRPRUB_FICHIER.BTN_RUB_NOUVEAU, trtclic)
+           type : 32
+    controls : []
+    code_elements :
+     type_code : 26
+     p_codes : []
+ languages :
+  - fr-FR
+ message_bar :
+  internal_properties : CAAAAAgAAAAjFWXItEk/EPvcbGR+hALkgRfdOpVtIn+yZNxHnmSRFJegE/AnD2HbGAaMfhGCqfzkryHG9FVhjtF+iQYkZ59QBQ88Okhh0vjCoVhOagox2hvIqrJnU30QK15/ZA==
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAABc0DtuaQXwYP6PNiAhWWwMySBPgdl5ee9PnGdk757lQMW4Fo9TVcBtHaPKthL1GRDDmxZCbRNUXzLXzJ3k7hjDFDMjj3aCul40
+  type_code : 1
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAABxQxSfk0SdVtFqh8hsZwbfsSvubMa3R4sJ8EsmiNVJiZvW2NglwnWhEvlP1oyyS5wBvFjUxhoZ3a10Vwjl66dL4mr7Dm5z+133ybF/gwXJ2eiim7L3dq3Mh19kX2QEtCc24rZsK5F0NDqcTRY=
+     code : |1-
+      
+      global
+      	
+      	// Elément sélectionné
+      	gOrgaElement	est un OrgaElément dynamique
+      
+      
+      local
+      	
+      	sOrganigramme est une chaine
+      	nOrganigramme est un entier
+      
+      	si Organigrammes..Occurrence > 0 alors
+      
+      		// Crée les options de menu permettant d'ouvrir les organigrammes
+      		pour tout sOrganigramme, nOrganigramme de Organigrammes
+      			MenuAjouteOption(MENU_OUVRIR, "OPT_ORGA" + nOrganigramme, ExtraitChaîne(sOrganigramme, rangDernier, fSép), OuvreOrganigramme, sOrganigramme)
+      			ExécuteCode("OPT_ORGA" + nOrganigramme + "..Image = ""orga_icon.png""")
+      		FIN
+      		
+      		MENU_OUVRIR.OPT_PLACEHOLDER..Visible = faux
+      	sinon
+      		MENU_OUVRIR.OPT_PLACEHOLDER..Visible = vrai
+      	fin
+      	
+      	// Ouvre l'exemple
+      	si Organigrammes[1] = frepexe + ["\"] + "Exemple" ALORS
+      		OuvreOrganigramme(Organigrammes[1])
+      	FIN
+   -
+     code : |1+
+      
+      
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1+
+      
+      
+     type : 2
+   -
+     code : |1+
+      
+      
+     type : 11
+   -
+     code : |1+
+      
+      
+     type : 12
+   -
+     code : |1+
+      
+      
+     type : 17
+   -
+     code : |1+
+      
+      
+     type : 13
+  procedures :
+   -
+     name : OuvreOrganigramme
+     internal_properties : CAAAAAgAAAAM34km+p2LM0Jafr/gijXeTImHicFj7lFu9FrqtgEK91qgYssHbROYrXPWPQuCRnMMZ684xbe6oq1nscH9xKapdVr2FWTPC1MVk/+hO52w5+vn7IjZ6fSvrcAYUpDA0PhZ/QJLYO5TzRKT4VFwJvmoQ216mG+7u8SECyh/lCtC1H7uDeo=
+     procedure_id : 2216461707538929093
+     type_code : 14
+     code : |1-
+      // Résumé : Ouvre un organigramme
+      // Syntaxe :
+      //[ <Résultat> = ] OuvreOrganigramme (<sOrganigramme> est chaîne ANSI)
+      //
+      // Paramètres :
+      //	sOrganigramme (chaîne ANSI) : Chemin de l'organigramme
+      // Valeur de retour :
+      // 	booléen : Vrai si l'organigramme a été ouvert, Faux sinon
+      //
+      // Traitement automatique des erreurs : exécuter le bloc de code CAS ERREUR
+      //
+      PROCEDURE OuvreOrganigramme(local sOrganigramme est une chaine)
+      	
+      	// Vide l'organigramme
+      	ORGA_ORGANIGRAMME.SupprimeTout()
+      	
+      	// Localisation des données
+      	hchangerep(Personne, sOrganigramme)
+      	HCréationSiInexistant(Personne)
+      	
+      	// Affiche l'organigramme
+      	HExécuteRequête(REQ_Organigramme)
+      		
+      	AnimationPrépare(mafenetre)
+      	
+      	MaFenêtre..Titre = "WD Organigramme [" + ExtraitChaîne(sOrganigramme, rangdernier, fsep) + "]"
+      	ORGA_ORGANIGRAMME.Affiche()
+      
+      	// Active la création
+      	BTN_RUB_NOUVEAU_ORGELEMENT..etat = actif
+      	
+      	gOrgaElement = null
+      	GR_SELECTION..Etat = grise
+      
+      	animationjoue(animFondu, 15)
+      
+      renvoyer vrai
+      
+      CAS ERREUR:
+      	renvoyer faux
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAAAspXRQsX4kpYpRJzI8SMGEUfXYJhQeqig0H9mPZLI9hoPnkeFEnSQ8t7JVd8VUY9eLyST/2DyAYB+9rK7lbHVOclfSdkhgAQ9dNjlmStKMpPl9
+  original_name : Modele1
+resources :
+ string_res :
+  identifier : 0x1ec2547c00114589
+  internal_properties : CAAAAAgAAACyXVFaObH4lOGSEHJoZf1MD49w+XTw2LScZCP/urkWFwy+HYJdyQ3umA==
+ dialogs :
+  -
+    identifier : 0x1ec27638002a0b1b
+    internal_properties : CAAAAAgAAABuxocJ/q5OeX7kDRExFHEUk5RKdE+3CzbAfNkNn9T4pgbBSSlXm+ns3cI6Qfp12HRcgBLS1/ihsnJCpaMkzkbMIYj3RVACZQ==
+    label :
+     fr-FR : Entrez le nom du nouvel organigramme
+    image_type : 0
+    image :
+     fr-FR : "D:\\Mes Projets\\Exemples VI\\Tortoise\\17.0\\WD Organigramme\\orga_new.png"
+    cancel_button : 1
+    buttons :
+     -
+       label :
+        fr-FR : "&Créer"
+       image : {}
+       value : 1
+     -
+       label :
+        fr-FR : "&Annuler"
+       image : {}
+       value : 2
+  -
+    identifier : 0x1ec28c090073439a
+    internal_properties : CAAAAAgAAACVTgmFGSekMqDnuJcgZMuxhqd/Bg85gjdixBnRjWTYsjIxlbj6DzDeYhzSBOz+a2sNHj7PNRnC14ZpppotikukOjnO38CfrVn9oEhR
+    label :
+     fr-FR : "Êtes-vous sûr de vouloir supprimer %1 ?\r\n\r\nSi cette personne est responsable d'autres personnes, celles-ci se verront attribuer le responsable supérieur ou aucun responsable."
+    image : {}
+    cancel_button : 1
+    buttons :
+     -
+       label :
+        fr-FR : "&Supprimer"
+       image : {}
+       value : 1
+     -
+       label :
+        fr-FR : "&Ne pas supprimer"
+       image : {}
+       value : 2
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+associated_test :
+ name : TEST_EXEMPLE.wxt
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

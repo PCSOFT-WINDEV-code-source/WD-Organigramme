@@ -1,0 +1,125 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FI_WINDEVVueOrgaElement
+ major_version : 28
+ minor_version : 0
+ type : 8
+ description : ""
+ subtype : 0
+window :
+ name : FI_WINDEVVueOrgaElement
+ identifier : 0x2e12cb491b65c82a
+ internal_properties : CAAAAAgAAAATJye1b+yr5iUQjN5ehdPCv6zuSlrb/JbIs9qeKUR0xWEeVjuKqnxEWWCXf+NC5ocZHZ25adr044udBHKcxep3k6M8KcwuSRUwnaEvp/utuvQBgJQEdAZo4HQ7Lr/r1kRTO2xJ+lCX+fkB/Fa1WQHevfv4Ksgv13ewH1MCs5sy8xCkjziqDLLJ4F+Q1kpDslWBxfqShMmBwGfWn7IMtv91pZu4HgnL3ByAi5rDpfKoTD9j/105l5/uAu1okC6QHpoxowm3o3YucRSK1h/wznzJqM9cBv2/vVAN3U+egFHaPOo7cnECcJFk2Gyi0PpDJ5LFWX5Mg8+OQhytqCqYvisbEOalIZkiiBUYEAticqBDCfmRpc9X4ctgPYTKg72FSCVE5YLsocIvcier05PsERtihF/55CwOHodkMmb/tjIPBphzGzZcRAahkmbMlYySlhz8p+Gp4a2i1CXPAHXbzk1DI+AlVmE923S5R91Zrg02AmG2anWO2Y3slNOjYFPL4wQeoQqnzK0/fRNZy/jWBZ6/r5uttlyRYvDXcpR7t1KUh0JVkadwfa13bo4D6f+Rpjf087UC0lrpKzLkn9uRWIriYSdDKcnC9/VQVkEmiV0a1pzd4XPa5dyK4/bt9vER87T8TF4YkejckXgFzTSjQ9VXe6NH29n8PQAd0CZKXEvA2Ya9+4pLnNG7qnzM1iGs+u84gYenoofJoaWkkGGYKAlSujTeeEh5dxvN8RDYrbuqtYzKSnIoOiN2OGF/+eJNNPHHdgD3pkeYrlUDtMPxFdIY7EXb8NvVMU10n5eof45b3ldDeTfD9yR3pBMgnG/QpPix4uj87+Om8JX5JZukGelp2MXaoMrucfovtCHtgy4gJEYCWN0i1eBFayFucpMCR1cifZtJiei+T+g3swGEX/daIgKiSzT9/U4XjsbkGc6rWSb25GEHmhdU9NBUZl2wpat1wQFNgVF4K46ZMgorQNpkW2nfcY9WiDQT631Ns+G4InVdLX9XbeGE4/VRjgTHSWkX/g4=
+ properties :
+  width : 150
+  height : 75
+ controls :
+  -
+    name : FI_WINDEVVueOrgaElement
+    identifier : 0x2e12cb491b66c82a
+    internal_properties : CAAAAAgAAACAGhfiYDc3VSyfPJJ4qv5NBQTRRtX6iMxGyCxI36OhhcvcrtrUtoGII3k9BMl6zM5O3R1AQ4jJKXWI+80+4VUxL/AlsnltK0xOn7oOIHmnh9i1Sc5/8AhtBaeB9BWv40pSR06s8SSivdYV5/QpM9OdTsx+f7V4fMS5i0hr/zoGmzREn6uOER+ab9YqXNgDPQlm3daW/pMk0dkC8YloNUo/26qBCdpWxugS8iAFaL7mtzmtABAjDOb5nNaaol3hLqp8mpL7WiCJeKbplz9Dj2OngdRWLuFTCvyQc4UWNWUCIdBXe7FQb14BiXfeno3YK92sOmxHWoUVSOrToGCxSIomTIziUqNP31XFQQ6Nrfrq4aC1sCnrB9DtAf4q1UdN5EkEI/YM6aSIsaF/UF+CnshiRkSn6JauJkGuDuZX5A6BGxFelpDMF/Hk0egOp7ily8mpL6+2Bog61mbNxBPT0/nzznVvHApLkc/YPncn84iupRE+iL1zF44SpHoZShW3zK0aE0lGsqClDoFf8jJXu16o2iU7fky2qSGzaoQJcoPPnMYWbIXoSUspDQzn/aRShfCCGD5s5KSjVbbiB36AY1cq27hTZ6VyTdnDhH7py/MYJaPoLsU/aB0AXJz1I9uK4BUoUq37Hz0P+bjif6+uACR+JO0TN/n79xg+3NJD/DKyQ+wF2Ex3KfizuUPpA7PJx4DmTSF0YkS5jYstrPNE/aXxFgO10geQ8aK1c9c5x15sZEa6clq3hJ8VVZWUPw==
+    properties :
+     width : 150
+     height : 75
+    controls :
+     -
+       name : LIB_TitreOrgaElement
+       identifier : 0x2e12cb5a1dc40c0d
+       internal_properties : CAAAAAgAAAADH1t2mh5UaR2vXRy1PB/g21Pccil0QVg7gGs0/+mjl8MTMFFvNN6SPlFi5+DmHDtpZLeVncGqvNPYLcSAMgZkSk3z4r1RtvauuAYrvrG4FTdjpUlwa4XFAH1DU0JnWwGDeZTiyf6Bo5+DINEmldytHp30kiw6h4UvJETEcvryoxFMEDoKZjwj63PCXLU/AqPdclUIAjk+aizta5paU0OeMVJWBgK7w7wDohbBMUPbEC+ntVo4Zk38poiMbSCFpDRnhp5xEEEbmiHQhTad+Qffx8mVi8Xgy7DLrxz+WzRHLEZPuG1Ecfes4OHBHnLNfatMY8gWGWctPFAfm2/MvsTyrMPJzXrYae3fA3R8IvjVxzaTSxGztszhP+Mm0GxKnauNYjYngMujaInvJ5M/raMdmFk4mWz8iSTYn5PjnmUum44tvxWQhYggT2qcDKm7zM2CyeSmLp465EBAIARTO0dBiPEEM/RjPA8Q+mDJv5UReB0qhcQAUh8FqCJfA8gKANhxSWjMxX9IDCoACuw+W8kp+geQLsy2xdboqBZ3zKIKDQ==
+       properties :
+        x : 73
+        y : 3
+        width : 77
+        height : 16
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : LIB_SousTitreOrgaElement
+       identifier : 0x2e12cbe537d72b40
+       internal_properties : CAAAAAgAAABDUKN34GpW3PduZraQamqdxyX6MNqxQumIHaLXXzYpc7DM5hv139ciYLfIQ6PhsTG6R/DYMU7N2mLNl4BGknghnRjk6XbJwqNZ09mAZcIEIIewU66ZjZwZzoMUzBijX1swfUbn6TFvrVlqec7S7p4IWw0T2Gvx0vFG3x+1jdvcWepRBJPj5bvw721au58+2G5u/G2NfPO8ZW3VRosuEf1PjeNNZeUlP+zjUS0lmEeIqBfgBTenP6EImoJ/SCl5bcv6XhRqW2S1woGgjN3GLKKm1+/b9efkyeHWxV/Le+kU+aQvmf+3HL++GPucCqxjw9b88wN7UawQybHUnpepA0XjN0SjK7KUkHABFiSVOYMa6rFnGjjhTj1Pn0+ifGZ4rrb/1wrBaWR4cZXYnhzZ3W4e47vo3FkprND9cX/I3x2JLFAKAYqBcPyhR5QRIeQzpN6T0z6stJY6nAjvXnj7F1sb2kDwVii01zpEbHaYJBBoo4+YHXz4E6BWM6QItMc3Wr9KMdAxTMplo+0Tz980GLm4O9Dmqh2vzO7iV0xffwVKzQ==
+       properties :
+        x : 73
+        y : 24
+        width : 75
+        height : 40
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : IMG_ImageOrgaElement
+       identifier : 0x2e12cc174073ecd9
+       internal_properties : CAAAAAgAAACa9ZKnfjvieMt6MNy5HktO70RJxUIN98ycIGpwae3GXPRTzcn2qCSN0HepxToMRwvdCMWB4JjOAN7qZDwyXHPUKaszuAKI7pX+9Not70s8l2KJEBoJrrlziERPjLtzyVeJm4yOCjhRdqEXtqHY0o4VjZvi2XE0hCtHT22s6zfNae+uRFoSZE4eFMeMvrLx/stPrvYr9xDgzNCpuzOSWKUzNeRF1Q5RFBg3Ug1hfupZMugLEsynIcD0BvEQcuSelwebNIFM5y/b8XBTQNtWR7K8Q6SpYami4BWtNUXWdu2ij1MCSTBsXZGd4c6Chol0yxcIL1Rtgyl4Hd6J2+UoB7TQwxS3ZXTTS2hDVCjf853s/4YnKJRQoAlpS7ffedy2P4tdBhXg3RkFnQruKxt68ynTtqxMwdt7JogJj1K5c0JsqJYoVQtbPa2cLH/n0T1zQW7kz+70ChbjAuBWu4PBYlVyEWeHO6mtmydz6qek65gpCCfnDuSeay73UEo8Ht+ThW2x2AI8GB4Vngvw/i5cZdxSndP8yavMkcgmN5/JxFGT/SqpQHiNr+mlgMT1MmP+ehqyfSKE3MHI+lwb7ReUkkgdVEvTa3fCNSzoo98zu7T0XRvnaSeIaYSbFJ3EZspq9F8UxuEENASAdO3o738UNmCpNBMuxkcSssRRpXnhrbrZUiXIB7IHGe0pSE+fJFQuMVEWJzdgtZ3gB9F87JZqW8cT9zPLhf9n9EnQ2/pAaZecmcToE8vDIJ1rpKCoCK7FMb+/wFY911Whs3NVDH0fcOanNYiPA23rmHpHpfaZE4jSgsO9Ozy0ZcLR3ndG65IUxlVpa1+iJAQv+fk8hmbpjg==
+       properties :
+        x : 4
+        y : 5
+        width : 64
+        height : 64
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes : []
+    type : 32
+    code_elements :
+     type_code : 70
+     p_codes :
+      -
+        code : |1+
+         // Procédure appelée pour chaque dessin d'un élément d'organigramme
+         // <gOrgaElement> : l'élément à afficher 
+         PROCEDURE FI_WINDEVVueOrgaElement( gOrgaElement est un OrgaElément )
+         
+         // Initialisation des libellés à partir de l'objet à afficher
+         LIB_TitreOrgaElement     = gOrgaElement.Titre
+         LIB_SousTitreOrgaElement = gOrgaElement.Contenu
+         
+         //si on a une image
+         
+         iImage est une image = gOrgaElement.Image
+         si iImage..valide alors
+         	// on rend l'image visible et on l'affecte au champ image
+         	IMG_ImageOrgaElement..Visible = vrai
+         	IMG_ImageOrgaElement 	 = gOrgaElement.Image
+         sinon
+         	IMG_ImageOrgaElement..visible = faux
+         	nDecalX est entier = IMG_ImageOrgaElement..Largeur + 6 // marge	
+         	// on récupère la place pour le libellé
+         	LIB_TitreOrgaElement..X			  = LIB_TitreOrgaElement..XInitial- nDecalX
+         	LIB_TitreOrgaElement..Largeur 	  = LIB_TitreOrgaElement..Largeur+ nDecalX
+         	LIB_SousTitreOrgaElement..X		  = LIB_SousTitreOrgaElement..XInitial- nDecalX
+         	LIB_SousTitreOrgaElement..Largeur = LIB_SousTitreOrgaElement..Largeur + nDecalX
+         FIn
+         
+         
+      -
+        type : 15
+      -
+        type : 16
+ menu :
+  name : _Menu
+  identifier : 0x2e12cb1e0ec12067
+  internal_properties : CAAAAAgAAABU7keOoJbvzImUbcupy5X07lO0Oo8HQSWjGw8+h3iDxUeq0mRs0DWuWGjChmU0Ujd/OL+XKS49ARaiRb4KuxH045rez/ALqapEVmUPArVvk3fxUk2P7tJMns/FR2rGln+1toDNI07pbHFsDFvv+ysmvvcNBhuY8c/cpMKxKkSp+Gr8jWI+5SOX+RHAIrrc4FLgferkZP7NS6ROi5aPat0li5bnMoGVbyBK4X1k4pJJOfAWNXRHNudMiTAtGghV+AyOq54igFSba4ljOb25QZHw+TMVN3yTMvwqxaAkoBOIeBMlpeN5DtsTtqAa1tTgSeR+Ca08zx47sSYYpRR1FyNpV4PQeo9gcqAon2+52A6vmiW3pTcmlYHzBb8k9hdRDlfj+S0Hw90XOfcg9o8EDNhfFYRt5sGkG9IRAv4H95u/jCwpMA/IcWGTXAkWZzzyucH7oV26Y5yAzOxTJg/boFYSoMay4N0eK7kNepzEprXhJsc471kVVwpmLNrgL+vcofgmM88=
+  options : []
+ languages :
+  - fr-FR
+  - en-GB
+ popup_menus : []
+ message_bar : {}
+ actionbar : {}
+ code_elements :
+  type_code : 71
+  p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FenêtreInterne1
+resources :
+ string_res :
+  identifier : 0x1fbe227b0476d867
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
